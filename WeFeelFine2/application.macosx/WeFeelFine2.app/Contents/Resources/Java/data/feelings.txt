@@ -1,0 +1,1007 @@
+
+<?xml version="1.0"?>
+
+<feelings>
+
+<feeling feeling="alone" sentence="i just don t want to feel alone anymore" />
+
+<feeling feeling="alone" sentence="i am doing something i love but the feeling of being alone is coming back in full force" />
+
+<feeling feeling="scared" sentence="i feel oddly scared" />
+
+<feeling feeling="alive" sentence="i feel like your joke is that i m still alive" />
+
+<feeling feeling="bad" sentence="i feel bad that it cut me" />
+
+<feeling feeling="vital" sentence="i feel like it s a part of as soon as you get a woman gets to an age where she has opinions and she s vital and she s strong she s systematically shamed into hiding under a rock" />
+
+<feeling sentence="i think ultimately it s a roast and in a way i feel like a hypocrite even addressing it" />
+
+<feeling feeling="good" sentence="i feel it s not a good example" />
+
+<feeling feeling="good" sentence="i suppose after having a baby you try extra hard to feel good well i do i want to make an effect with my style and not feel like a mum in jeans a tee and tied up hair" />
+
+<feeling feeling="diet" sentence="i don t feel the need to diet or anything" />
+
+<feeling feeling="complete" sentence="i like lists and i m sure once franklin is in more of a routine i ll be able to feel like i can work through a list and complete my tasks" />
+
+<feeling feeling="healthy" sentence="i also feel like things are running away from me like the amount that needs doing in the house it builds up to a point where i ll put the house before myself not healthy i know but mess really stresses me out" />
+
+<feeling feeling="born" sentence="i remember having this feeling when grayson was born and every now and again i get that feeling again now franklin is here" />
+
+<feeling feeling="disappearing" sentence="i can t be the only mum that sometimes feels like i m disappearing almost invisible only here to care for others clean tidy and pick up after people" />
+
+<feeling feeling="positive" sentence="i'm feeling very positive about the season at the moment but previous experience has taught me how quickly that can change" />
+
+<feeling feeling="autumn" sentence="i think it's because it's feeling much more like autumn lately and i've noticed a lot of traffic going to a post i did a few years ago about a href http: dreamsarenecessary" />
+
+<feeling feeling="sure" sentence="i've been feeling pretty sure that i was leaving charleroi soon so i've seen a lot of members less active families and amis that i've worked with during the last 6 months to say goodbye" />
+
+<feeling feeling="sorrowful" sentence="i hope to feel less sorrowful for leaving love behind" />
+
+<feeling feeling="meditative" sentence="i sat every afternoon for who knows how long because the peaceful feeling was near meditative in the shallowest end of the tide dropping wet sand through my fingers while my son scooped and piled more of it into his bucket" />
+
+<feeling feeling="great" sentence="i've logged in about 70 kms in this baby and so far the feeling is great" />
+
+<feeling feeling="off" sentence="i'm feeling a little off" />
+
+<feeling feeling="vulnerable" sentence="i'm feeling a little vulnerable today" />
+
+<feeling sentence="i cannot figure out what exactly it is i am feeling: frustration annoyance disappointment or worthlessness so i decided to wri" />
+
+<feeling feeling="small" sentence="i seem insignificant standing beside her with my shorter stature at five feet five inches although she never infers anything to make me feel small" />
+
+<feeling sentence="i don't know if she feels it necessary to stress 'this is a term used during that time period' or if she was worried people won't be able to recognize a phrase as being stressed" />
+
+<feeling sentence="i present to the reader and hopefully readers female and male will empathize with elle s feelings" />
+
+<feeling sentence="i have to say this is a pretty nice feeling" />
+
+<feeling sentence="i entered and perhaps especially the los angeles marathon usually had a festival feel to them" />
+
+<feeling feeling="closer" sentence="i definitely feel a need to pay closer attention" />
+
+<feeling feeling="hard" sentence="i've just had an odd feeling lately that's been a bit hard to shake" />
+
+<feeling feeling="better" sentence="i'm feeling better so it's time to get some exercise" />
+
+<feeling feeling="magic" sentence="i feel the fill doing it 39 s magic i guess it 39 s magical" />
+
+<feeling sentence="i do not olok forward to a flat stomach ok a little but that isn't what the big picture is about i look forward to feeling like me just a little" />
+
+<feeling feeling="great" sentence="i have plenty of friends that feel great in the implants and are ok with them but again they did not ask for them" />
+
+<feeling feeling="alien" sentence="i hated no i will not go on again about how fake they are but that is how i feel like an alien" />
+
+<feeling sentence="i feel about last week" />
+
+<feeling sentence="i feel like it atom 42 href 75 42http: www" />
+
+<feeling sentence="i feel like it rss 42 href 75 42http: wheniifeellikeit" />
+
+<feeling sentence="i feel like it atom 42 href 75 42http: wheniifeellikeit" />
+
+<feeling sentence="i feel like it: training" />
+
+<feeling sentence="i feel like it' 'pagetype': 'item' 'url': 'http: wheniifeellikeit" />
+
+<feeling sentence="i'll write again when i feel like it" />
+
+<feeling sentence="i feel like it" />
+
+<feeling feeling="adult" sentence="i feel like an adult" />
+
+<feeling sentence="i feel about geology though" />
+
+<feeling feeling="holding" sentence="i feel strongly about holding a public hearing singleton said" />
+
+<feeling feeling="sad" sentence="i feel sad not in mockery but with understanding" />
+
+<feeling feeling="sad" sentence="i actually do feel sad looking at girls trying so hard to hang on to and for a guy who has obviously moved on" />
+
+<feeling feeling="diluted" sentence="i feel that this stops the beef flavour being diluted and that you can taste each part individually" />
+
+<feeling feeling="substantial" sentence="i can feel i'm dropping a substantial amount of water weight which is always a plus and i got to the gym this morning for a good 45 minutes workout" />
+
+<feeling feeling="icky" sentence="i'm bloated and feeling all around icky" />
+
+<feeling feeling="proud" sentence="i'm passionate about helping clients to create a home that they feel proud of somewhere that feels 'just right'" />
+
+<feeling feeling="satisfied" sentence="i type away and the bookcase organised with books in order feeling very satisfied right now" />
+
+<feeling feeling="important" sentence="i have a feeling this guy is someone important but as a new player i have no idea who he is" />
+
+<feeling feeling="uncanny" sentence="i could get used to it but for now it still feels like uncanny valley territory to me" />
+
+<feeling sentence="i feel the need" />
+
+<feeling feeling="confirmed" sentence="i looked up from my seat the feeling was confirmed" />
+
+<feeling feeling="sorry" sentence="i do to convince myself to get out of bed on those days i am feeling sorry for myself" />
+
+<feeling feeling="sorry" sentence="i wanted to do was go hide in a corner cry and feel sorry for myself" />
+
+<feeling feeling="good" sentence="i am currently almost 18 weeks along due 2 19 14 and feeling pretty good most of the time" />
+
+<feeling feeling="same" sentence="i love her but she does not feel the same way about me 2 reasons why by chris g" />
+
+<feeling feeling="same" sentence="i ever feel the same about my husband after his affair" />
+
+<feeling sentence="i feel like there is very little discipline in my life other than the part where i" />
+
+<feeling feeling="inspired" sentence="i don t often feel inspired during the week but the lim" />
+
+<feeling feeling="forced" sentence="i am interested in the continuing conversation about people feeling forced to move out of their council" />
+
+<feeling feeling="inspired" sentence="i have been feeling very inspired by music whether i am inspired to write to cry or just to let loose and sing" />
+
+<feeling feeling="depressed" sentence="i was feeling depressed or had anxiety" />
+
+<feeling feeling="wanted" sentence="i told him how i was feeling and i just wanted to cry" />
+
+<feeling sentence="i am feeling the love" />
+
+<feeling feeling="warm" sentence="i say who doesn't love the feel of the warm sun on your back" />
+
+<feeling feeling="closer" sentence="i do feel one step closer to the end although it will still be about two years before i will earn the title of doctor" />
+
+<feeling sentence="i feel that these people also hate me" />
+
+<feeling feeling="better" sentence="i appreciate being able to vent and i feel much better now" />
+
+<feeling feeling="better" sentence="i am feeling much better" />
+
+<feeling feeling="relieved" sentence="i feel surprisingly relieved by and have a daughter who is ten months older than the bean" />
+
+<feeling feeling="better" sentence="i do feel much better" />
+
+<feeling sentence="i don't like this feeling" />
+
+<feeling feeling="different" sentence="i feel completely different there was no more energy left" />
+
+<feeling feeling="melancholy" sentence="i feel a bit of melancholy tonight maybe because i m tired" />
+
+<feeling sentence="i don't want people to feel crappy about themselves" />
+
+<feeling feeling="entire" sentence="i drive i won't feel like i'm broadcasting to the entire world" />
+
+<feeling feeling="good" sentence="i began to feel like the message i was sending was not a good one" />
+
+<feeling feeling="ready" sentence="i feel 'ready' for the real stuff" />
+
+<feeling feeling="fortunate" sentence="i feel very fortunate to be able to spend this amount of quality time with my child which is coinciding with an absolutely amazing stage of her preciously young life" />
+
+<feeling feeling="happy" sentence="i feel like i am a happy person by nature but i have to put effort into letting go of negative events that occur in my life" />
+
+<feeling feeling="happy" sentence="i left dripping in sweat and feeling happy" />
+
+<feeling feeling="high" sentence="i just didn t feel like high intensity exercise" />
+
+<feeling feeling="better" sentence="i promise you ll feel ten times better" />
+
+<feeling sentence="i reach the point where i feel like i need to get my life" />
+
+<feeling sentence="i don t know about you but i am already starting to feel out of whack" />
+
+<feeling sentence="i feel as if i have all my balls in the air and if one happens to drop they all will" />
+
+<feeling feeling="stagnant" sentence="i've been feeling a bit stagnant" />
+
+<feeling sentence="i felt those feelings of inadequacy i had felt all school year creep back" />
+
+<feeling feeling="inadequate" sentence="i feel so inadequate so worthless so juvenile" />
+
+<feeling sentence="i struggled immensely with feelings of inadequacy" />
+
+<feeling feeling="social" sentence="i might postpone until tomorrow if possible not feeling entirely social at the moment" />
+
+<feeling sentence="i've learned or rather i m in the process of learning that trust is a choice not a feeling" />
+
+<feeling feeling="articulate" sentence="i feel like it minimizes the loss but i doubt there s really any way to truly articulate the enormity of such a loss in one word is extremely common" />
+
+<feeling feeling="learned" sentence="i do feel like i've learned a few things so far along the way though and i d like to share my experience with others who might be on this same heartbreaking journey" />
+
+<feeling feeling="emotional" sentence="i have quite the village to turn to when i 39 m feeling emotional" />
+
+<feeling feeling="unencumbered" sentence="i wanted her to feel unencumbered and at one with nature" />
+
+<feeling feeling="perky" sentence="i must be feeling perky" />
+
+<feeling feeling="stained" sentence="i have a feeling that nicki minaj yeah that's her name has had nicotine and booger stained fingers in her hair as well" />
+
+<feeling sentence="i'm feeling like those guys that spin the plates on sticks" />
+
+<feeling sentence="i feel like writing about" />
+
+<feeling sentence="i feel your pain" />
+
+<feeling sentence="i use as a guide to find that base other than just feeling it" />
+
+<feeling feeling="emotional" sentence="i kept wondering if my feelings about vw were strictly emotional a result of reading her literature but if that were the case how did i base those emotions i was feeling towards her mind" />
+
+<feeling feeling="physical" sentence="i can only imagine her having to downplay her sensitive monthly feelings no matter what they were physical or mental in front of these young men" />
+
+<feeling feeling="deep" sentence="i could feel a deep depression hitting me broadside crying with distress it was so emotional and physically debilitating i dipped into a place i was starting to fear hour after hour day after day" />
+
+<feeling feeling="aware" sentence="i know how i feel because virginia woolf can t help but make you fully aware she was aware of her own personal stake in her own life and how her writing affected her self and others" />
+
+<feeling sentence="i feel like i've finally gotten the hang of gardening" />
+
+<feeling feeling="great" sentence="i feel great" />
+
+<feeling feeling="relieved" sentence="i feel relieved that it's over and i'm alive and well" />
+
+<feeling feeling="morning" sentence="i feel this morning" />
+
+<feeling sentence="i still feel up to it i may paddle back to juneau along the gulf of alaska" />
+
+<feeling feeling="confident" sentence="i feel confident in saying that you can't go wrong with either" />
+
+<feeling sentence="i feel like that leaf" />
+
+<feeling sentence="i wonder if he feels like a failure" />
+
+<feeling feeling="better" sentence="i'm feeling a bit better now tho" />
+
+<feeling feeling="glowing" sentence="i feel that you are not squeezed and actually really enjoyed being with us and you are just positively glowing" />
+
+<feeling feeling="irresponsible" sentence="i feel it is irresponsible for the manufacturers of these products to label them so they look practically identical to their non alcoholic counterparts" />
+
+<feeling sentence="i do feel is duped" />
+
+<feeling feeling="responsible" sentence="i still feel fully responsible for drinking it and driving" />
+
+<feeling feeling="store" sentence="i feel duped by the store who had these drinks at the till where most such stores have pop water and energy drinks along with the chips and chocolate bars" />
+
+<feeling feeling="hungry" sentence="i approached the cashier and put down my purchase i was feeling hungry and tired so i grabbed some potato chips from the snack rack and an energy drink from a little fridge on the counter" />
+
+<feeling feeling="sound" sentence="i hate to feel or sound like i know it all when it comes to men and marriage cos i don t know jack" />
+
+<feeling feeling="free" sentence="i will also endeavour to respond to comments as quickly as possible so please feel free to air your views any time" />
+
+<feeling feeling="bad" sentence="i fully expect to receive more negative feedback than positive but then again sometimes people feel bad enough that someone anyone would believe this is good and keep the negativity to a minimum" />
+
+<feeling feeling="current" sentence="i feel the need to explain a few things when it comes to the current work i ve been posting" />
+
+<feeling feeling="well" sentence="i feel i am doing well" />
+
+<feeling feeling="justified" sentence="i image: neo plotlands village by jason le mare as this old blog has shown renewed signs of life lately i feel justified in writing one of thos" />
+
+<feeling sentence="i don't feel free 2 days ago" />
+
+<feeling sentence="i don't experience this stream of involuntary thoughts and partially formed language as a deformation of response it feels much more like an enhancement" />
+
+<feeling feeling="side" sentence="i take before and after photos ask how their skin feels and looks afterward and show them the photos side by side" />
+
+<feeling feeling="confident" sentence="i almost always feel more confident and happier if i put on some mascara and pick out a cute outfit" />
+
+<feeling feeling="radiating" sentence="i feel is radiating from within and a welcome change from the pessimism that has plagued me since i was a child" />
+
+<feeling feeling="vulnerable" sentence="i feel totally vulnerable doing it here goes" />
+
+<feeling sentence="i think i decided to type because i read something really nice about burning man and my intention was to write down something awesome that i said to someone while i was there and the incredible response to it but now now i feel like i don't want to" />
+
+<feeling sentence="i have to fill eight goddam hours and while i'm planning it always feels like too much then when i'm actually doing it it never seems like enough" />
+
+<feeling feeling="right" sentence="i sort of gave up dragged myself out of bed around 10:30 feeling like a failure right out of the gate" />
+
+<feeling feeling="painful" sentence="i start this blog its a deliberate step towards a positive acceptance of the journey rather than what has been feeling like a painful push" />
+
+<feeling feeling="turned" sentence="i feel i have turned a corner in my journey through life i decided i needed a new blog to express that" />
+
+<feeling feeling="okay" sentence="i feel like i'm doing a lot of stuff to make other people feel okay about my cancer" />
+
+<feeling feeling="failed" sentence="i'm not strong enough will i feel like i've failed my family" />
+
+<feeling feeling="full" sentence="i am tumbling gasping for air and feel the full force of the shock" />
+
+<feeling feeling="guilty" sentence="i should be feeling guilty" />
+
+<feeling feeling="ago" sentence="i feel it coming back again 6 days ago" />
+
+<feeling feeling="silly" sentence="i feel silly" />
+
+<feeling feeling="vindicated" sentence="i am feeling vindicated but saddened that it took us me so long to have this test done" />
+
+<feeling feeling="good" sentence="i'm feeling pretty good not quite at the pre chemo level of health but not too far off" />
+
+<feeling feeling="nauseous" sentence="i have been most worried about weight gain depression and feeling nauseous" />
+
+<feeling sentence="i don't feel like i'm dragging us there either" />
+
+<feeling feeling="comfortable" sentence="i will feel more comfortable when she is a little older and can understand better" />
+
+<feeling sentence="i definitely feel more at peace" />
+
+<feeling feeling="relaxed" sentence="i enjoy that make me feel relaxed and happy" />
+
+<feeling feeling="daily" sentence="i started to feel like blogging about our daily life wasn't what i wanted to do" />
+
+<feeling feeling="safe" sentence="i have fought for her to feel safe and loved" />
+
+<feeling feeling="sad" sentence="i feel so sad that she had to die this way" />
+
+<feeling feeling="deserved" sentence="i feel didn't get the respect they deserved when they were in the theater" />
+
+<feeling feeling="massive" sentence="i'm not saying i'm going to spend 163 15 million on my trip or have alan shearer come with me always worth an email though but i feel like i have a massive opportunity to build on what i have and really make a big push on to the next level" />
+
+<feeling feeling="beloved" sentence="i feel like my beloved newcastle united who at the end of the 1995 96 season when they finished 2nd in the premier league were oh so close to winning the premier league title" />
+
+<feeling feeling="cross" sentence="i am very thankful and motivated but i have a feeling this is also a kind of cross roads" />
+
+<feeling feeling="cunning" sentence="i remember: he sailed by feel and cunning: he saw the big picture out of the boat and kept it simple" />
+
+<feeling feeling="master" sentence="i found myself having a terrific beat a good way up the west kyle and finally feeling like i was master of the boat in this weight of wind" />
+
+<feeling sentence="i found i was really learning some fundamentals which i had not understood or not had the feel for before" />
+
+<feeling feeling="white" sentence="i stand grounded and push my um life energy my chi into the ground to stay rooted and then summon every bit of soul energy i can starting with my solar plexus and then it's a warming sensation where i feel like visualize a ball of white light" />
+
+<feeling feeling="strong" sentence="i feel strong and grounded and rooted" />
+
+<feeling feeling="chilled" sentence="i feel chilled and cooler than i did" />
+
+<feeling sentence="i felt that this was going to be one of those pleasant feel god games" />
+
+<feeling feeling="confident" sentence="i did not feel very confident and to be hones i talked down my army" />
+
+<feeling sentence="i went back and forth between the armies driving some of my fellow team members to the brink of despair but in the end after letting my inner feel god decide i went with my de" />
+
+<feeling feeling="confident" sentence="i feel pretty confident that walt cannot be nor should be" />
+
+<feeling feeling="easy" sentence="i'm betting that there are viewers out there who are feeling betrayed and that is an easy to understand knee jerk" />
+
+<feeling sentence="i've had time for reflection and processed my feelings somewhat" />
+
+<feeling feeling="calm" sentence="i am frantically trying to remember every little moment and feeling of what he does and part of me worries that i should just still and calm myself and enjoy all the little moments" />
+
+<feeling feeling="confident" sentence="i don't know what god has in store next but i feel confident that it will include a more culturally diverse life" />
+
+<feeling sentence="i am feeling in my discipleship these days" />
+
+<feeling feeling="shrewd" sentence="i dare say from the pulpit that i'm not sure where i am going and actually feel something like this shrewd manager" />
+
+<feeling feeling="fine" sentence="i just feel fine" />
+
+<feeling feeling="better" sentence="i kagawa's health saying the japanese star is feeling bit better at the moment" />
+
+<feeling feeling="silly" sentence="i feel so silly in retrospect for all of the tense moments of worry and hopelessness" />
+
+<feeling sentence="i was started to feel very badly" />
+
+<feeling sentence="i was feeling a little attacked at the time exodus 14:14 joshua 1:9 and the list goes on" />
+
+<feeling feeling="foreign" sentence="i feel like i am the foreign substance in your life" />
+
+<feeling feeling="first" sentence="i can still recall the feelings like yesterday when vincent first held my hand in a mall" />
+
+<feeling sentence="i find that my ideals have not changed much since retiring and i find the words below to be some of the best ones to express how i feel about a life long dedication to the us navy's values of honor courage amp committment" />
+
+<feeling sentence="i had to go back and look to see if i did a 9 month post already because i feel like i just did one but it was just the 8 month one" />
+
+<feeling feeling="baby" sentence="i feel baby jealousy or baby longing i haven't changed my mind about dirty diapers or lugging a stroller on the subway" />
+
+<feeling sentence="i don't feel it in my bones yet" />
+
+<feeling feeling="changing" sentence="i love that they let her have complicated feelings about the issue without changing her mind" />
+
+<feeling sentence="i do feel like i need to point out that there were a handful of curse words in the book" />
+
+<feeling sentence="i feel like he never got his shinning moment to be the jerk that karou says that he is" />
+
+<feeling feeling="beneficial" sentence="i feel like those chapters would have been beneficial if it was trickled in the book rather than one huge section" />
+
+<feeling feeling="legit" sentence="i feel legit emotion for a character" />
+
+<feeling sentence="i love sharing my tips and tricks to create affordable home decor and other products that almost always have a shabby chic or french feel to them" />
+
+<feeling feeling="following" sentence="i feel the need to post the following old school masterpiece for yo" />
+
+<feeling sentence="i have a bad feeling about this" />
+
+<feeling feeling="old" sentence="i really feel the day not because i feel old or anything but because it marks the last" />
+
+<feeling feeling="low" sentence="i've been feeling a bit low on the wargaming front lately" />
+
+<feeling sentence="i can't describe it you just have to feel it" />
+
+<feeling sentence="i looked around it was a very weird feeling indeed" />
+
+<feeling sentence="i've heard it described before feeling like your boob is smooshed in the refrigerator door" />
+
+<feeling feeling="bound" sentence="i'd never imagined but am so thankful for i've tasted freedom and grace in an area where i used to feel quite bound up" />
+
+<feeling feeling="honored" sentence="i feel honored to do it for them" />
+
+<feeling feeling="swept" sentence="i mean yes he was devoted to emily but with his stupid small secrets and his over demanding father i feel he was really just swept up in lust not anything meaningful" />
+
+<feeling sentence="i love the way you feel in my arms when i hug you goodbye" />
+
+<feeling sentence="i love the way your hair feels as i run my fingers through them" />
+
+<feeling feeling="d" sentence="i feel like i d dirty you just by touching you" />
+
+<feeling feeling="soft" sentence="i love the way your skin feels so soft when i run my hands over it" />
+
+<feeling feeling="happy" sentence="i feel so happy just spending time with you" />
+
+<feeling sentence="i could stare at you forever and i d still feel like i haven t had enough of you" />
+
+<feeling feeling="reassured" sentence="i don 39 t feel reassured by the statement: p" />
+
+<feeling sentence="i feel a lot safer in israel" />
+
+<feeling sentence="i know it s not the end of the world but it s rocked us none the less so i give myself permission to feel what i m feeling" />
+
+<feeling sentence="i righteously shake my fists at the anger and i let myself feel the sadness and i acknowledge the fear that your actions have instilled within me" />
+
+<feeling sentence="i feel like im in a room and now one is listen to me" />
+
+<feeling feeling="hopeless" sentence="i feel hopeless and i really just want to die" />
+
+<feeling feeling="off" sentence="i feel off of his upcoming full length project boy meets world" />
+
+<feeling sentence="i am heartily begging not to feel it" />
+
+<feeling feeling="happy" sentence="i don t wanna feel the happy feeling of falling for someone the painful feeling of unrequited love and the struggle of moving on by myself" />
+
+<feeling sentence="i need and want to feel nothing" />
+
+<feeling feeling="right" sentence="i must admit it somewhat matches what i feel right now" />
+
+<feeling feeling="failing" sentence="i feel like i m failing" />
+
+<feeling feeling="confused" sentence="i end up for the meeting sitting as far back in the room as possible and feeling confused by the information being thrown at me" />
+
+<feeling feeling="sixth" sentence="i feel like i ve stepped into a time machine and got out at the sixth grade" />
+
+<feeling feeling="new" sentence="i feel once again like i need to make new friends" />
+
+<feeling feeling="certain" sentence="i feel like i need to pass certain tests as a parent or else flunk out" />
+
+<feeling sentence="i feel like i ve gone back with them" />
+
+<feeling feeling="comfortable" sentence="i love how she's often photographed in trees she obviously still feels comfortable in them" />
+
+<feeling feeling="human" sentence="i know is that i walked out of that church feeling like a human being like an individual no longer like an animal" />
+
+<feeling feeling="hurt" sentence="i knew they were wild animals and after my experience with that parrot i couldn't trust them but some sense made me feel they wouldn't hurt me" />
+
+<feeling feeling="scared" sentence="i was little and didn't know what was happening but i remember feeling scared and every day since then i worry about you" />
+
+<feeling feeling="good" sentence="i'm feeling good" />
+
+<feeling feeling="messy" sentence="i started feeling a few things here and there under me feet or when something messy in the kitchen happened" />
+
+<feeling sentence="i don't feel injured" />
+
+<feeling feeling="nauseous" sentence="i started feeling nauseous i knew we had another baby coming" />
+
+<feeling feeling="baby" sentence="i was feeling that it was time to add another baby to the mix" />
+
+<feeling feeling="justified" sentence="i image: neo plotlands village by jason le mare as this old blog has shown renewed signs of life lately i feel justified in writing one of thos" />
+
+<feeling sentence="i don't feel free 2 days ago" />
+
+<feeling sentence="i feel about that" />
+
+<feeling feeling="home" sentence="i feel at home here kind of peace" />
+
+<feeling sentence="i use the syllabus to ask the student whether they feel that their essay meets the professor s requirements" />
+
+<feeling feeling="business" sentence="i feel that it is my job and business to prepare students for their future classes where professors will fail them for turning in something mediocre whereas they might have previously passed classes by writing a paper that doesn t quite meet the standards set by the professor or teacher" />
+
+<feeling sentence="i am hoping praying we all fall into a routine soon that feels a bit smoother" />
+
+<feeling feeling="incompetent" sentence="i go between feeling like i am getting the hang of it to feeling totally incompetent" />
+
+<feeling sentence="i am savvy enough to know that the checker at target is being friendly and doesn t want my five minute response on how i feel in limbo" />
+
+<feeling feeling="lucky" sentence="i feel very lucky to be standing here as opposed to somewhere else he said" />
+
+<feeling feeling="right" sentence="i have such a strong gut feeling that this is what i need to do right now" />
+
+<feeling sentence="i feel like this is what i'm meant to do" />
+
+<feeling feeling="right" sentence="i feel like a nut job right now" />
+
+<feeling sentence="i've had this gnawing feeling that i will never find a job that suits me and that i should do something about it" />
+
+<feeling feeling="good" sentence="i feel so good with the way things are going even if the circumstances aren't always ideal" />
+
+<feeling feeling="perfected" sentence="i feel the pattern is perfected or good enough for now i transfer the tissue paper pattern to a href http: www" />
+
+<feeling feeling="alone" sentence="i would imagine that this might be one area in which you might feel as jeremiah felt: all alone" />
+
+<feeling feeling="alone" sentence="i do when it is you feel most alone" />
+
+<feeling feeling="alone" sentence="i can t really think of another topic on which using bad language might be more appropriate how it feels to be out there on your own all alone" />
+
+<feeling sentence="i need a mom i don't feel well" />
+
+<feeling feeling="done" sentence="i get my ivig tomorrow at the hospital which actually sucks because i always feel like death about an hour after it gets done" />
+
+<feeling feeling="sorry" sentence="i occasionally have my nurse take a picture so everyone can feel sorry for me with me" />
+
+<feeling feeling="well" sentence="i need a mom i don t feel well" />
+
+<feeling feeling="forced" sentence="i feel for the pagans that are forced to work inside cubicles all day away from the trees and animals but i bet there are many of those pagans who bring plants and crystals and other parts of the natural world into their cubicles to feel that natural connection throughout their work day" />
+
+<feeling feeling="important" sentence="i feel like i am losing focus on what is truly important in life and succumbing to the often negative mindset of the modern world it helps to remind myself what being pagan is really all about" />
+
+<feeling feeling="embarrassed" sentence="i don t drink much anymore and i don t really feel that embarrassed about the fact that i m incredibly lazy although i probably should" />
+
+<feeling feeling="bad" sentence="i feel bad" />
+
+<feeling feeling="bad" sentence="i feel bad saying i haven t even been to the gym once this week" />
+
+<feeling feeling="free" sentence="i started online and of course my kids i feel like i have no free time" />
+
+<feeling sentence="i get information from businesses i liked at one time it can feel like more online noise" />
+
+<feeling sentence="i feel like a smoker really needing a smoke" />
+
+<feeling sentence="i shook my head both holding back a giggle and feeling so in love with that cutie" />
+
+<feeling feeling="paper" sentence="i love the sound and feel of parchment paper i love cookie cutters i adore my treasured butter yellow kitchen aid mixer i bought for myself when i was single" />
+
+<feeling feeling="hung" sentence="i don t know if i ve figured out the future or completely came to terms with the last couple of years but i don t feel as hung up on it" />
+
+<feeling sentence="i kissed him and was overcome with patience and love and oh g d all those maternal feelings" />
+
+<feeling sentence="i did not feel in the spirit of yom kippur" />
+
+<feeling sentence="i definitely had the feeling that we were all in this together" />
+
+<feeling feeling="standing" sentence="i am not moving on be it my career be it my relationship i feel like i m standing in the same place for a very long time and there s nothing much i could do about it" />
+
+<feeling sentence="i feel my life isn t moving on" />
+
+<feeling feeling="fancy" sentence="i sometimes prepare eggs like i would for breakfast but then put it on two pieces of toasted bread with mayo or if i'm feeling fancy i'll add avocado and tomatoes and lettuce and it makes one great egg sandwich" />
+
+<feeling feeling="sorry" sentence="i'm walking through that section i'm feeling even more sorry for myself because most of the toys are for little people and i am so sad that my guys are too big for a lot of it and that i don't have a new little person to give those things to" />
+
+<feeling sentence="i have a feeling that i will be keeping this layout for quite some time" />
+
+<feeling feeling="whole" sentence="i'm feeling i hope i become a writer some day i've been through things most 17 yr olds haven't gone through within there whole life" />
+
+<feeling feeling="rolled" sentence="i wasn 39 t feeling it when 4:00 rolled around and it was my normal time to get up and ride" />
+
+<feeling feeling="loved" sentence="i hope you always know and feel how much you are loved and how special you are" />
+
+<feeling feeling="sorry" sentence="i feel sorry for is suiseiseki" />
+
+<feeling feeling="absolute" sentence="i feel that was the absolute worst thing anyone ever said to her" />
+
+<feeling sentence="i don't feel a tug at my heartstrings with the fall season" />
+
+<feeling feeling="guilty" sentence="i know i haven't blogged the whole month of august and i feel almost guilty but really august was a very busy month and so many things happened i don't even know where to start alessandra's coming a trip to thailand getting almost deathly ill kittens" />
+
+<feeling feeling="real" sentence="i feel a real urgency to do two things" />
+
+<feeling feeling="able" sentence="i still feel like i owe my buddy jarred some fish so hopefully i will be able to get him into some soon" />
+
+<feeling feeling="free" sentence="i am all about learning and then teaching so please feel free to discuss here" />
+
+<feeling feeling="fortunate" sentence="i feel so fortunate to have a few wonderful local yarn shops to go to" />
+
+<feeling feeling="home" sentence="i also think though this could certainly open a can of worms and a whole other blog post that no parent of yours spouse church friends judge y old women in the grocery store should make you feel like you have to stay at home" />
+
+<feeling feeling="guilty" sentence="i'm made to feel guilty or lazy" />
+
+<feeling feeling="pre" sentence="i have just the one babe but these were my thoughts and feelings pre children days" />
+
+<feeling feeling="rolling" sentence="i feel like we are rolling" />
+
+<feeling sentence="i feel like mr" />
+
+<feeling feeling="happening" sentence="i wouldn t want you to know what i feel it s already happened to me i m stronger now for it happening" />
+
+<feeling feeling="mad" sentence="i did feel mad for a brief moment" />
+
+<feeling sentence="i try to think of something to describe just a little to make you know how it feels" />
+
+<feeling sentence="i can t simply walk off from it and not feel hear know it" />
+
+<feeling sentence="i feel as if my very soul is screaming" />
+
+<feeling sentence="i feel as if i ll die myself it s the very a class zem slink title pain href http: en" />
+
+<feeling feeling="wick" sentence="i feel that happened with chadwick we call him wick or wick wick" />
+
+<feeling sentence="i feel it s a class zem slink title hypoglycemia href http: en" />
+
+<feeling feeling="true" sentence="i now feel true fear" />
+
+<feeling sentence="i feel fear" />
+
+<feeling sentence="i don't't feel a jolt of fear" />
+
+<feeling feeling="freer" sentence="i feel much more like myself and lighter and freer and spend about half the amount of time in the shower so all's well with the world" />
+
+<feeling feeling="melting" sentence="i feel like my eyes are melting" />
+
+<feeling sentence="i feel the need to cancel everything on my calendar this week" />
+
+<feeling sentence="i feel like a hypocrite the one" />
+
+<feeling feeling="better" sentence="i am feeling much better today" />
+
+<feeling feeling="cheating" sentence="i still feel like cheating all the time" />
+
+<feeling feeling="sick" sentence="i've been forced to eat many times today and i feel sick" />
+
+<feeling feeling="stuck" sentence="i feel like i'm stuck behind a wall" />
+
+<feeling feeling="stuck" sentence="i feel like i 039 m stuck behind a wall" />
+
+<feeling feeling="stressed" sentence="i get support from my parents in rising the children i still feel stressed and pressured" />
+
+<feeling feeling="blinded" sentence="i feel really blinded by the whole food thing now" />
+
+<feeling sentence="i feel like i'm losing my perspective again on this disease it's really hurting me and my spirit" />
+
+<feeling feeling="relaxed" sentence="i feel relaxed: there's no pressure to do anything during the fall" />
+
+<feeling feeling="inspired" sentence="i find the time to create things and feel inspired to change things around the house" />
+
+<feeling feeling="inspired" sentence="i feel inspired: i always feel so inspired and creative during the fall" />
+
+<feeling feeling="sorry" sentence="i had a list of physical issues that were getting to me and was feeling a bit sorry for myself" />
+
+<feeling feeling="new" sentence="i really am not feeling this new weather it's come out of nowhere and i've been so unprepared" />
+
+<feeling feeling="fly" sentence="i really enjoy this style of climbing there were some interesting three dimensional moves and i enjoy the feeling of my body intuitively solving each little problem on the fly" />
+
+<feeling feeling="nice" sentence="i then led it feeling nice and relaxed" />
+
+<feeling feeling="hopeless" sentence="i am feeling pretty hopeless" />
+
+<feeling feeling="blessed" sentence="i am feeling very blessed to have the capacity the space and the time though i always crave more to take my visions and make them tangible and real" />
+
+<feeling sentence="i have quite a few feelings about being back outside on my bike" />
+
+<feeling feeling="d" sentence="i had a feeling d" />
+
+<feeling feeling="heavy" sentence="i have red hyper pigmentation and it absolutely evens out my skin tone without feeling too heavy or greasy" />
+
+<feeling sentence="i feel it" />
+
+<feeling feeling="ill" sentence="i feel up to it i'll do a lifting workout in the morning and then turbo kick after work" />
+
+<feeling sentence="i will get up early to run 3 4 miles depending on how i feel then piyo after work and hopefully a bike ride with rowan" />
+
+<feeling sentence="i'm honestly not sure how i feel about this product" />
+
+<feeling sentence="i struggle daily to strip away some of the pride i continue to cling to but once again i feel that it is time that i let another strand of my pride go so that i may become the daughter my father in heaven would like me to become" />
+
+<feeling feeling="ready" sentence="i honestly didn t feel ready to face the lfs i wouldn t go" />
+
+<feeling feeling="right" sentence="i don t feel right or there s a lump or bump" />
+
+<feeling feeling="better" sentence="i would definitely feel better having full body scans and brain scans but maybe that will come with time" />
+
+<feeling feeling="comfortable" sentence="i feel comfortable with my regular doctor visits plus my screenings" />
+
+<feeling feeling="ready" sentence="i really feel like i m ready" />
+
+<feeling feeling="riding" sentence="i really didn t feel like riding sunday" />
+
+<feeling feeling="exhausted" sentence="i told myself during my first 5k when it gets hard and when i feel exhausted and think to myself i can t do this to remember one thing: i already am" />
+
+<feeling feeling="big" sentence="i feel like i m just waiting for this next big thing" />
+
+<feeling feeling="better" sentence="i will feel better" />
+
+<feeling feeling="ready" sentence="i feel like i m ready but now the hard part is maintaining that ready and waiting for it" />
+
+<feeling feeling="anxious" sentence="i am really feeling anxious" />
+
+<feeling feeling="uninspired" sentence="i am not the only one who feels uninspired somt times are you" />
+
+<feeling feeling="new" sentence="i don t feel like starting a new quilt" />
+
+<feeling sentence="i feel lighter" />
+
+<feeling feeling="old" sentence="i love being in my pajamas sipping a cup of coffee and snuggling up with characters that feel like old friends" />
+
+<feeling sentence="i read this interview and i feel like maybe i get her more than i initially would have thought" />
+
+<feeling feeling="valid" sentence="i think both feelings are valid" />
+
+<feeling sentence="i can feel it" />
+
+<feeling sentence="i can feel him watching me" />
+
+<feeling feeling="luckiest" sentence="i feel like the luckiest guy in the world to have her by my side" />
+
+<feeling sentence="i hope that these stages help inform your stories as much as i feel them informing mine" />
+
+<feeling feeling="enlarged" sentence="i feel lumps all over his body now and his lymph node has become enlarged" />
+
+<feeling feeling="cross" sentence="i'm feeling unreasonably cross" />
+
+<feeling feeling="right" sentence="i can't even begin to describe everything i am feeling right now" />
+
+<feeling sentence="i am a full time realtor that believes people should always be treated like they have feelings and 160 an opinion and not ever as a pay check" />
+
+<feeling sentence="i hope you will share your feeling about my post" />
+
+<feeling feeling="white" sentence="i was also feeling that my legs were too white still in relation to the rest of my body so i went a boots shopping to check out what they had in relation to instant tanners" />
+
+<feeling sentence="i feel should be brought up because there are too many people who may not know" />
+
+<feeling feeling="well" sentence="i remember correctly that installment is told singularly from alex's pov and should give you a great feel for the authenticity of the series and how well researched it is" />
+
+<feeling feeling="common" sentence="i've read over the last few years i feel that they all have one thing in common one thing at the core of each story that compels me to keep reading them" />
+
+<feeling feeling="bad" sentence="i feel like i bitch so much about him that its making me look bad" />
+
+<feeling feeling="concerned" sentence="i feel concerned for myself" />
+
+<feeling sentence="i can honestly say i don t feel that way anymore" />
+
+<feeling feeling="dead" sentence="i approach photography as a means to capture a feeling a something that often stops me dead in my tracks" />
+
+<feeling feeling="embarrassed" sentence="i get all squishy inside feel embarrassed" />
+
+<feeling feeling="inadequate" sentence="i always have doubts feel inadequate but perhaps that is just an artist s nature" />
+
+<feeling feeling="mastered" sentence="i never have enough time to pursue interests to the extent i feel i have mastered them" />
+
+<feeling feeling="potential" sentence="i feel needs talking about not just for potential backers but for people thinking about running a kickstarter as this is one of the better playtest materials i have gotten from an ongoing kickstarter" />
+
+<feeling feeling="lost" sentence="i feel lost and i saw that same confusion in my friends' eyes tonight" />
+
+<feeling feeling="calm" sentence="i lost some and found some now i feel there should be a sense of maturity and calm over my life a sureness in moving on to the next phase" />
+
+<feeling feeling="dark" sentence="i feel a dark cloud of loneliness settling over my head" />
+
+<feeling sentence="i feel my mood sinking" />
+
+<feeling sentence="i don't want to feel this way and i certainly don't want to need to feel this way" />
+
+<feeling sentence="i feel like crap" />
+
+<feeling sentence="i can feel lighter" />
+
+<feeling feeling="glued" sentence="i feel like i m vegetating i feel as if i i m glued to this limbo with no hope of an escape" />
+
+<feeling sentence="i feel the pain" />
+
+<feeling feeling="right" sentence="i really feel right now" />
+
+<feeling sentence="i feel like i'm doing something towards dealing with my breakout" />
+
+<feeling feeling="dry" sentence="i do feel like this helps my spots dry up faster than they ordinarily would" />
+
+<feeling feeling="great" sentence="i feel great 10 i wish i was dead 3 out of 10" />
+
+<feeling sentence="i'm also not sure how much of it is actually feelings and how much is lust" />
+
+<feeling feeling="down" sentence="i need to remember moments like this when i feel down and i also need to capitalize on my sudden burst of confidence" />
+
+<feeling feeling="good" sentence="i'm having tons of success but it's easy to feel good when you are having success" />
+
+<feeling feeling="better" sentence="i just want to say that i feel like i am doing better but i'm a little bit worried about the weight i'm putting on certain things" />
+
+<feeling sentence="i was a little busy and honestly it's kind of a good thing because it means i don't feel the need to be analyzed" />
+
+<feeling feeling="privileged" sentence="i feel privileged to be part of this community" />
+
+<feeling feeling="figured" sentence="i finally feel like i figured out what makes me happy and what makes me feel whole" />
+
+<feeling feeling="better" sentence="i now feel like i have a better relationship with my family i actually see my best friend more than 3 times per year and get to spend every day with the love of my life i don t have to choose between time spent with any of them" />
+
+<feeling feeling="best" sentence="i think instead that today feels like any other day because this past year has been one of the best and most balanced of my life" />
+
+<feeling feeling="big" sentence="i feel this big excitement build up to the day and then this sense of shedding and starting over for the next year of my life" />
+
+<feeling feeling="different" sentence="i turned 25 today and i feel no different" />
+
+<feeling sentence="i always feel a little thrill when tea time comes around" />
+
+<feeling feeling="possible" sentence="i was blown away by that research and also so delighted as i feel that my circle groups give women the opportunity to be as real as possible to become fully themselves to stand in their truth and live life fully alive" />
+
+<feeling feeling="vibrating" sentence="i can actually see and feel how my energy is vibrating at a totally different level it feels like it is just oozing love" />
+
+<feeling feeling="blessed" sentence="i feel truly blessed to have been able to enjoy such a wondrous piece of paradise" />
+
+<feeling feeling="old" sentence="i feel like old people actually dry up thus their balls actually get better smelling" />
+
+<feeling feeling="right" sentence="i have in bram evidence that this feeling will disappear but right now" />
+
+<feeling sentence="i feel like i m meant for that" />
+
+<feeling sentence="i feel it in my blood" />
+
+<feeling sentence="i am judged for feeling this way" />
+
+<feeling feeling="sure" sentence="i feel just sure that that little one is right where he should be right now and so so loved" />
+
+<feeling feeling="good" sentence="i just feel like summer was too good to be true" />
+
+<feeling sentence="i can t see them and so i feel like slowly they re forgetting me" />
+
+<feeling feeling="ended" sentence="i feel like as summer ended life just fizzled out" />
+
+<feeling sentence="i feel like someone needs me" />
+
+<feeling feeling="d" sentence="i seem here like i have enough emotions and like i m caring i feel like i d want to have a friend like me sometimes" />
+
+<feeling feeling="well" sentence="i still got that proud feeling every time you did well" />
+
+<feeling sentence="i went into it with the mindset that she d be a bitch it was so hard to sit by the in gate with her and not feel like she was my team mate" />
+
+<feeling feeling="sorry" sentence="i feel like sorry has to meet the extent of the problem that makes sorry necessary" />
+
+<feeling sentence="i don t believe that true empathy really exists in order to empathize you need to feel and understand the feeling of the other person" />
+
+<feeling sentence="i feel about it exactly" />
+
+<feeling sentence="i will trust myself to move forward even if i make what later feels like a mistake" />
+
+<feeling feeling="ahead" sentence="i feel seems in one facet to be of the emptiness and blankness ahead" />
+
+<feeling sentence="i feel when i think about where to go next in my life" />
+
+<feeling sentence="i accepted the feeling of accomplishment and peace" />
+
+<feeling sentence="i am happy to feel like myself again" />
+
+<feeling feeling="returning" sentence="i feel like my creativity is slowly but surely returning" />
+
+<feeling feeling="comfortable" sentence="i have really needed photos and it has been tough for me to find any photographer that i feel comfortable with as a lot of people have trouble with my idea of beauty" />
+
+<feeling feeling="truer" sentence="i have boosted my make up and hair extravagancy recently because i feel like it is truer to my creativity however i don t have any photos of this other than my mobile uploads" />
+
+<feeling feeling="keen" sentence="i feel they would be keen to have him now as proven backup rather than their number one choice" />
+
+<feeling feeling="great" sentence="i was still feeling great so i knew that i didn't have to worry about him catching back up to me" />
+
+<feeling feeling="better" sentence="i decided to just slow down a bit and see if my calf would feel better or at least not get any worse" />
+
+<feeling feeling="good" sentence="i was feeling good perhaps i would pick it a bit for a few miles and see how many people i could reel in" />
+
+<feeling sentence="i love these reversible scarfs the colors are perfect for the fall season and the soft mix of viscrose and acrylic make these scarfs wonderful looking and feeling" />
+
+<feeling feeling="keen" sentence="i feel they would be keen to have him now as proven backup rather than their number one choice" />
+
+<feeling feeling="continuing" sentence="i will spend in italy every year but sadly i feel it will not be enough to warrant continuing with my other blog 'news from italy' thankyou for all the wonderful support i have had from all around the world" />
+
+<feeling feeling="believable" sentence="i with plenty of historical detail and well portrayed characters that feel believable it was the plot itself that i found weak at times" />
+
+<feeling sentence="i feel people need to laugh and enjoy life" />
+
+<feeling feeling="super" sentence="i feel god gave me super powers and a double dose of energy" />
+
+<feeling sentence="i don't know what to feel i have so much stuff to do" />
+
+<feeling feeling="numb" sentence="i feel really numb" />
+
+<feeling sentence="i allowed to feel when is too soon" />
+
+<feeling feeling="attached" sentence="i feel really attached to my pictures" />
+
+<feeling feeling="stressed" sentence="i took approximately 5 million pictures in europe and am feeling really stressed out about narrowing them down to a suitable number for this blog" />
+
+<feeling sentence="i feel that way too" />
+
+<feeling feeling="tough" sentence="i feel working ladies have a tough time here in whatever field they are employed" />
+
+<feeling feeling="disappointed" sentence="i could have wasted my energy worrying about what my friends thought or feeling disappointed that the pictures weren't perfect" />
+
+<feeling feeling="rising" sentence="i can always tell whether or not southern literature is working if it makes me feel the humidity and see the heat rising up off of the cars and asphalt" />
+
+<feeling feeling="reasonable" sentence="i do not pretend to know everything about investing but i feel i now know enough to achieve a reasonable level of return from my investing and that is ok for me" />
+
+<feeling feeling="confident" sentence="i hope in a small way to contribute to ordinary people feeling a little more confident and empowered around their investment decision making" />
+
+<feeling feeling="dizzy" sentence="i finally feel like i can walk without feeling dizzy and just like death so i'll be getting back on schedule here soon" />
+
+<feeling feeling="choice" sentence="i don t necessarily feel that it was a choice" />
+
+<feeling feeling="annoyed" sentence="i can guarantee you at some point you will experience one or more of these: physical fatigue emotional fatigue feeling annoyed brainwashed confused depressed disillusioned bored and unfulfilled" />
+
+<feeling feeling="lazy" sentence="i'm feeling lazy and i'm not getting paid for this" />
+
+<feeling feeling="found" sentence="i feel i have found the balance of overdoing things without overdoing them if that makes sense" />
+
+<feeling feeling="marvellous" sentence="i have acquired a real interest in the marketing of products which claim to make you look and feel marvellous" />
+
+<feeling feeling="rocky" sentence="i see television show like indian idol i start feeling like singer after a moment when i see dance india dance then i feel like a dancer when i see movies like rocky series then i feel like a wrestler when i see the movie like guru then i feel myself as a business men" />
+
+<feeling feeling="bad" sentence="i feel bad but being a parent is number 1 and education is also number 1" />
+
+<feeling feeling="wrapped" sentence="i pray you feel wrapped in love as in the arms of an old comfy cozy quilt" />
+
+<feeling sentence="i know if hurt her feelings" />
+
+<feeling feeling="alienated" sentence="i feel alienated like my kid is the only one who acts like a banshee 24 7" />
+
+<feeling feeling="locked" sentence="i feel like i need to be locked away for a few good hours to gain my sanity back" />
+
+<feeling sentence="i want to blog about reads into one big ol' bitch fest that i am sure the surfers of the internet don't feel like reading" />
+
+<feeling sentence="i'm too busy with a newborn and a toddler maybe i don't feel like i have anything to blog about" />
+
+<feeling feeling="lyric" sentence="i feel that lyric now but i'm not stuck this is the way i chose" />
+
+<feeling sentence="i don't feel the same a href http: 4" />
+
+<feeling feeling="home" sentence="i make my beautiful house feel like home" />
+
+<feeling sentence="i arranged for a replacement before i had my dental work done not knowing how i would be feeling" />
+
+<feeling feeling="ready" sentence="i suppose what i m trying to say is that while i don t feel ready for a 1:35 just yet i do feel like with a little more time i ll get there" />
+
+<feeling feeling="guilty" sentence="i feel guilty for not being there yet" />
+
+<feeling feeling="done" sentence="i do feel like the work i have done could be worth something and i think i ll use bellingham as a fitness test and benchmark race as opposed to an a race" />
+
+<feeling feeling="level" sentence="i never feel like i jacked things up to the level i need to be at" />
+
+<feeling feeling="developing" sentence="i feel like i m developing a really good base and by alternating between speed long runs cut back weeks and easy runs i m hoping that my base will be really strong by the time i gear up for my next marathon" />
+
+<feeling sentence="i have to say that i m really feeling like i just want the training to end" />
+
+<feeling feeling="vulnerable" sentence="i wobble inwardly and feel a bit vulnerable and misunderstood" />
+
+<feeling sentence="i can remember feeling in a while" />
+
+<feeling feeling="different" sentence="i don t say is that this feels so unbelievably different" />
+
+<feeling feeling="bad" sentence="i found myself looking at other moms feeling bad for them" />
+
+<feeling sentence="i was a bit surprised that it wasn't boxed or in sturdy feeling wrap but it all arrived safely so it isn't an issue" />
+
+<feeling sentence="i couldn't be happier i can't stop smiling and that is an amazing feeling" />
+
+<feeling feeling="happy" sentence="i tried so hard to push feelings and a heart on him that still belonged to monkey and i lied to my self so much to try and make myself believe that i was happy in the long run i hurt one of my best friends and if he never forgives me i'll understand" />
+
+<feeling feeling="worse" sentence="i didn't want to make him feel any worse than he already did but he needed to know what he did to me so i explained to him everything and we just stared at each other for a long time" />
+
+<feeling sentence="i cried a little and told him that my life had been null since he walked away he told me that he could't tell me his feelings because he's just never had too face that" />
+
+<feeling feeling="home" sentence="i make my beautiful house feel like home" />
+
+<feeling sentence="i arranged for a replacement before i had my dental work done not knowing how i would be feeling" />
+
+<feeling sentence="i am grateful to be feeling like i can do more" />
+
+<feeling sentence="i feel like i'm in a fishbowl" />
+
+<feeling sentence="i was kinda sad too and guess what the light came again and the feeling was gone" />
+
+<feeling feeling="sad" sentence="i had a total break down and i was feeling really really sad i was crying and shit and it was the worst" />
+
+<feeling feeling="party" sentence="i feel no need in throwing a party with a bunch of people i dont even like" />
+
+<feeling sentence="i find it much more frustrating and take it way more personal because they know how i feel and what its like for me" />
+
+<feeling feeling="free" sentence="i feel free when i am here" />
+
+<feeling feeling="tired" sentence="i was allowing it to feel that way because i am tired and i don't feel like fighting back with truth" />
+
+<feeling feeling="buried" sentence="i found myself feeling buried and wanting to just give up" />
+
+<feeling feeling="better" sentence="i feel like if i could just take a break here and there and completely disconnect from the world of mom i could handle it better" />
+
+<feeling sentence="i always feel like oh god i forgot that part but yes i take it all very personally" />
+
+<feeling feeling="connected" sentence="i feel very connected with these people they don t know who i am" />
+
+<feeling feeling="terrible" sentence="i may not use the next part where after the person yelled then they go oh gosh i really feel terrible i m really really sorry and i ll never do that again" />
+
+<feeling feeling="exhausted" sentence="i feel as exhausted as lawyer" />
+
+<feeling sentence="i feel the pain of the hawaiin woman who's last name is 36 charactersa and 19 syllables long" />
+
+<feeling feeling="good" sentence="i don't know if it's my age or just the fact that i want to look good and feel good too" />
+
+<feeling sentence="i feel differently about it" />
+
+<feeling sentence="i feel upon my face" />
+
+</feelings>
+
