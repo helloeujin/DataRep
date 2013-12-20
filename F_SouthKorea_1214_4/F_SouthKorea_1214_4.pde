@@ -133,7 +133,7 @@ void emotionViz() {
       opacity = 255;
       opacity2 = 0;
       
-      axisInit();
+      axisInit2();
       cnt = 0;
       cnt2 = 0;
       
@@ -408,5 +408,17 @@ void axisInit() {
     ax.tpos.set(x, height*0.9);
     ax.year = i + 1985;
     axisList.add(ax);
+  }
+}
+
+void axisInit2() {
+  for(int i = 0; i < axisList.size(); i++) {
+    float x = map(i, 0, num-1, 50, width-50);
+    Axis ax = new Axis();
+    ax = axisList.get(i);
+    ax.pos.set(0, height*0.9);
+    ax.tpos.set(x, height*0.9);
+    ax.year = i + 1985;
+    //axisList.add(ax);
   }
 }

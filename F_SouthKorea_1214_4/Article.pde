@@ -27,7 +27,7 @@ class Article {
     float ttx = map(1, 0, 8, 50, width-50);
     //fill(#04376C, 255);
     fill(255);
-    textSize(52);
+    textSize(48);
     textAlign(RIGHT);
     
     cnt = cnt+35;
